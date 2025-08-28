@@ -6,6 +6,7 @@ This repository contains the code and supplementary materials for the paper "Eva
 ## Contents
 The prompts for each optimisation step are organised and saved based on their respective prompting techniques, accompanied by `util.py` which contains essential utility functions supporting various techniques. For additional reference, `other_prompts.ipynb` contains a comprehensive collection of supplementary prompts, specifically designed for generating Few-Shot examples and Chain-of-Thought reasoning texts. However, the Chain-of-Thought reasoning texts used in the original experiments for the Automatic as well as the Manual approach are also provided in the `cot_examples/` folder together with the examples from the Human approach of Few-Shot prompting.
 
+
 ```
 prompt-sentiment-control/
 ├── experiments/
