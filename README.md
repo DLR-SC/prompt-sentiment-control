@@ -47,7 +47,18 @@ All experiments were implemented in different Jupyter Notebooks, allowing for mo
 ## Citation
 
 ```bibtex
-tbd
+@inproceedings{sahler2025evaluating,
+  title={Evaluating Prompt Engineering Strategies for Sentiment Control in AI-Generated Texts},
+  author={Sahler, Kerstin and Jentzsch, Sophie},
+  booktitle={HHAI 2025: The 4th International Conference Series on Hybrid Human-Artificial Intelligence},
+  year={2025},
+  series={Frontiers in Artificial Intelligence and Applications},
+  volume = {408},
+  editors = {Dino Pedreschi, Michela Milano, Ilaria Tiddi, Stuart Russell, Chiara Boldrini, Luca Pappalardo, Andrea Passerini, Shenghui Wang},
+  doi = {10.3233/FAIA250659},
+  pages = {423 - 438},
+  isbn = {9781643686110}
+}
 ```
 
 ## License
